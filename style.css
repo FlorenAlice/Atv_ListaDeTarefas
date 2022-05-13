@@ -1,0 +1,10 @@
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.dv-f li {
+    font-size: 20px;
+    margin: 10px 0;
+    text-decoration: line-through;
+}
